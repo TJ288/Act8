@@ -1,0 +1,18 @@
+MUI GUI Demo Test Cases
+
+| Element        | Functionality                        | Steps                                                      | Data/Actions                | Expected Behavior                          | Observed Behavior         |
+|---------------|--------------------------------------|------------------------------------------------------------|-----------------------------|--------------------------------------------|--------------------------|
+| Radio Button  | Only one selection allowed           | Click each radio button option one by one.                 | Option 1, 2, 3              | Only one radio button can be selected.      | Works as expected        |
+| Checkbox      | Multiple selections allowed          | Click to select/deselect.                                  | Checked/Unchecked           | Checkbox toggles between states.            | Works as expected        |
+| Dropdown      | Selection from options               | Click dropdown, select each option.                        | Option 1, 2, 3              | Selected value updates correctly.           | Works as expected        |
+| Textbox       | Text input                           | Type text into textbox.                                    | Any text                    | Textbox displays entered text.              | Works as expected        |
+| Slider        | Slider movement                      | Drag slider handle.                                        | 0-100                       | Slider value updates as moved.              | Works as expected        |
+| Button        | Button click                         | Click the button.                                          | Click                       | Button responds to click.                   | Works as expected        |
+| Image/Video   | Display and controls                 | Check visibility, play/pause video.                        | Sample image/video          | Image displays, video plays/pauses.         | Works as expected        |
+| Table         | Table rendering                      | Check table displays rows/columns correctly.               | Sample data                 | Table displays all data correctly.          | Works as expected        |
+
+Each test case includes the element, functionality, steps, data/actions, expected and observed behavior.
+
+---
+
+This file can be converted to PDF or DOC format for submission.
