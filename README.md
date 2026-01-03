@@ -20,7 +20,7 @@ This project demonstrates various GUI elements using Material-UI (MUI) in React.
    ```
 
 ## Assets
-- Images and videos use public URLs as placeholders. Replace with your own assets if needed.
+- Images and videos use public URLs as placeholders.
 
 ## Test Cases
 See the Test Cases page in the app for sample scenarios. A DOC/PDF version is also provided.
